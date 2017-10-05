@@ -12,10 +12,6 @@
 	"clickstorm"
   ],
   "version": "1.1.2-dev",
-  "dist": {
-	"url": "https://github.com/clickstorm/cs_webp.git",
-	"type": "git"
-  },
   "replace": {
 	"cs_webp": "*",
 	"cs_clear_images": "*"
